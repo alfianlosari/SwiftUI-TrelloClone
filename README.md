@@ -24,4 +24,4 @@ The app has several main features:
 - Build and run the project using Xcode 13 and iOS 15.
 
 ## Tutorial
-This project is based on the YouTube tutorial series that you can watch at Build a Trello Clone iOS App with SwiftUI[YouTube]().
+This project is based on the YouTube tutorial series that you can watch at Build a Trello Clone iOS App with SwiftUI[YouTube](https://youtu.be/Of_20rSjk7Y).
